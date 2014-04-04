@@ -1,0 +1,4 @@
+architecture
+============
+
+Sample template - architecture
